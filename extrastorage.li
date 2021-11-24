@@ -5,13 +5,13 @@
 	},
 	{
 		"userId": "Funf",
-		"type": "spigot",
+		"type": "SPIGOT",
 		"blocked": true,
 		"reason": "You're a stupid dog!"
 	},
 	{
 		"userId": "DustinDinh",
-		"type": "mc-market",
+		"type": "MCMARKET",
 		"blocked": true,
 		"reason": "Heheheh!"
 	}
