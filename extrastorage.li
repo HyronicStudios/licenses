@@ -4,12 +4,14 @@
 		"version": "1.6.9"
 	},
 	{
-		"user": "Funf",
+		"userId": "Funf",
+		"type": "spigot",
 		"blocked": true,
 		"reason": "You're a stupid dog!"
 	},
 	{
-		"user": "DustinDinh",
+		"userId": "DustinDinh",
+		"type": "mc-market",
 		"blocked": true,
 		"reason": "Heheheh!"
 	}
