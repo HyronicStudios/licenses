@@ -4,10 +4,24 @@
 		"version": "2.0.0"
 	},
 	{
-		"userId": "212980",
-		"name": "HyronicStudios",
+		"userId": "%%__USER__%%",
+		"name": "Placeholder",
 		"type": "SPIGOT",
 		"blocked": true,
-		"reason": ""
+		"reason": "This is a default placeholder you cannot use!"
+	},
+	{
+		"userId": "%%__USER__%%",
+		"name": "Placeholder",
+		"type": "MCMARKET",
+		"blocked": true,
+		"reason": "This is a default placeholder you cannot use!"
+	},
+	{
+		"userId": "%%__USER__%%",
+		"name": "Placeholder",
+		"type": "POLYMART",
+		"blocked": true,
+		"reason": "This is a default placeholder you cannot use!"
 	}
 ]
