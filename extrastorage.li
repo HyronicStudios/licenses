@@ -8,13 +8,6 @@
 		"name": "HyronicStudios",
 		"type": "SPIGOT",
 		"blocked": true,
-		"reason": "You're a stupid dog!"
-	},
-	{
-		"userId": "247237",
-		"name": "HyronicStudios",
-		"type": "MCMARKET",
-		"blocked": true,
-		"reason": "Heheheh!"
+		"reason": ""
 	}
 ]
