@@ -1,0 +1,27 @@
+[
+	{
+		"author": "UriZelda",
+		"version": "1.0.0"
+	},
+	{
+		"userId": "%%__USER__%%",
+		"name": "Placeholder",
+		"type": "SPIGOT",
+		"blocked": true,
+		"reason": "This is a default placeholder you cannot use!"
+	},
+	{
+		"userId": "%%__USER__%%",
+		"name": "Placeholder",
+		"type": "MCMARKET",
+		"blocked": true,
+		"reason": "This is a default placeholder you cannot use!"
+	},
+	{
+		"userId": "%%__USER__%%",
+		"name": "Placeholder",
+		"type": "POLYMART",
+		"blocked": true,
+		"reason": "This is a default placeholder you cannot use!"
+	}
+]
