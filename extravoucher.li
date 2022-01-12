@@ -8,20 +8,20 @@
 		"name": "Placeholder",
 		"type": "SPIGOT",
 		"blocked": true,
-		"reason": "This is a default placeholder you cannot use!"
+		"reason": "Invalid user ID!"
 	},
 	{
 		"userId": "%%__USER__%%",
 		"name": "Placeholder",
 		"type": "MCMARKET",
 		"blocked": true,
-		"reason": "This is a default placeholder you cannot use!"
+		"reason": "Invalid user ID!"
 	},
 	{
 		"userId": "%%__USER__%%",
 		"name": "Placeholder",
 		"type": "POLYMART",
 		"blocked": true,
-		"reason": "This is a default placeholder you cannot use!"
+		"reason": "Invalid user ID!"
 	}
 ]
