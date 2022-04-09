@@ -23,5 +23,12 @@
 		"type": "POLYMART",
 		"blocked": true,
 		"reason": "Invalid user ID!"
+	},
+	{
+		"userId": "1510996",
+		"name": "NguyenPhucThai",
+		"type": "SPIGOT",
+		"blocked": true,
+		"reason": "The plugin has been leaked! Contact our via discord server for more information!"
 	}
 ]
