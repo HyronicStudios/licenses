@@ -30,5 +30,12 @@
 		"type": "SPIGOT",
 		"blocked": true,
 		"reason": "The plugin has been leaked on April 9th 2022. Contact us via discord server for more information!"
+	},
+	{
+		"userId": "865473",
+		"name": "Typical1977",
+		"type": "SPIGOT",
+		"blocked": true,
+		"reason": "The plugin has been leaked on August 5th 2022. Contact us via discord server for more information! (Owner Simpmc)"
 	}
 ]
