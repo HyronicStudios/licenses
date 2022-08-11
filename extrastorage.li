@@ -6,45 +6,14 @@
 	{
 		"userId": "%%__USER__%%",
 		"name": "Placeholder",
-		"type": "SPIGOTMC",
+		"type": "ALL",
 		"blocked": true,
 		"reason": "Invalid user ID!"
 	},
 	{
-		"userId": "%%__USER__%%",
-		"name": "Placeholder",
-		"type": "MCMARKET",
-		"blocked": true,
-		"reason": "Invalid user ID!"
-	},
-	{
-		"userId": "%%__USER__%%",
-		"name": "Placeholder",
-		"type": "POLYMART",
-		"blocked": true,
-		"reason": "Invalid user ID!"
-	},
-	{
-		"userId": "%%__USER__%%",
 		"downloadId": "%%__NONCE__%%",
 		"name": "Placeholder",
-		"type": "SPIGOTMC",
-		"blocked": true,
-		"reason": "Invalid download ID!"
-	},
-	{
-		"userId": "%%__USER__%%",
-		"downloadId": "%%__NONCE__%%",
-		"name": "Placeholder",
-		"type": "MCMARKET",
-		"blocked": true,
-		"reason": "Invalid download ID!"
-	},
-	{
-		"userId": "%%__USER__%%",
-		"downloadId": "%%__NONCE__%%",
-		"name": "Placeholder",
-		"type": "POLYMART",
+		"type": "ALL",
 		"blocked": true,
 		"reason": "Invalid download ID!"
 	},
