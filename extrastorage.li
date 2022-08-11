@@ -11,6 +11,7 @@
 		"reason": "Invalid user ID!"
 	},
 	{
+		"userId": "NoID",
 		"downloadId": "%%__NONCE__%%",
 		"name": "Placeholder",
 		"type": "ALL",
