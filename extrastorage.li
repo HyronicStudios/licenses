@@ -6,7 +6,7 @@
 	{
 		"userId": "%%__USER__%%",
 		"name": "Placeholder",
-		"type": "SPIGOT",
+		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "Invalid user ID!"
 	},
@@ -25,16 +25,40 @@
 		"reason": "Invalid user ID!"
 	},
 	{
+		"userId": "%%__USER__%%",
+		"downloadId": "%%__NONCE__%%",
+		"name": "Placeholder",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "Invalid download ID!"
+	},
+	{
+		"userId": "%%__USER__%%",
+		"downloadId": "%%__NONCE__%%",
+		"name": "Placeholder",
+		"type": "MCMARKET",
+		"blocked": true,
+		"reason": "Invalid download ID!"
+	},
+	{
+		"userId": "%%__USER__%%",
+		"downloadId": "%%__NONCE__%%",
+		"name": "Placeholder",
+		"type": "POLYMART",
+		"blocked": true,
+		"reason": "Invalid download ID!"
+	},
+	{
 		"userId": "1510996",
 		"name": "NguyenPhucThai",
-		"type": "SPIGOT",
+		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "The plugin has been leaked on April 9th 2022. Contact us via discord server for more information!"
 	},
 	{
 		"userId": "865473",
 		"name": "Typical1977",
-		"type": "SPIGOT",
+		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "The plugin has been leaked on August 5th 2022. Contact us via discord server for more information! (Owner Simpmc)"
 	},
