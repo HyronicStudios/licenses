@@ -1,7 +1,7 @@
 [
 	{
 		"author": "UriZelda",
-		"version": "1.0.0"
+		"version": "1.0.1"
 	},
 	{
 		"userId": "%%__USER__%%",
@@ -23,5 +23,12 @@
 		"type": "POLYMART",
 		"blocked": true,
 		"reason": "Invalid user ID!"
+	},
+	{
+		"userId": "1480477",
+		"name": "doanhuan456",
+		"type": "SPIGOT",
+		"blocked": true,
+		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances."
 	}
 ]
