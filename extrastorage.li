@@ -1,10 +1,11 @@
 [
 	{
 		"author": "UriZelda",
-		"version": "2.5.1"
+		"version": "2.5.2"
 	},
 	{
 		"userId": "%%__USER__%%",
+		"downloadId": "NoID",
 		"name": "Placeholder",
 		"type": "ALL",
 		"blocked": true,
@@ -20,6 +21,7 @@
 	},
 	{
 		"userId": "1510996",
+		"downloadId": "NoID",
 		"name": "NguyenPhucThai",
 		"type": "SPIGOTMC",
 		"blocked": true,
@@ -27,6 +29,7 @@
 	},
 	{
 		"userId": "865473",
+		"downloadId": "NoID",
 		"name": "Typical1977",
 		"type": "SPIGOTMC",
 		"blocked": true,
@@ -34,6 +37,7 @@
 	},
 	{
 		"userId": "1361814",
+		"downloadId": "NoID",
 		"name": "zNAFTAz",
 		"type": "SPIGOT",
 		"blocked": true,
@@ -41,6 +45,7 @@
 	},
 	{
 		"userId": "1480477",
+		"downloadId": "NoID",
 		"name": "doanhuan456",
 		"type": "SPIGOT",
 		"blocked": true,
