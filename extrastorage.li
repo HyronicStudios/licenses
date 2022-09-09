@@ -39,7 +39,7 @@
 		"userId": "1361814",
 		"downloadId": "NoID",
 		"name": "zNAFTAz",
-		"type": "SPIGOT",
+		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "The plugin has been leaked on August 9th 2022. Contact us via discord server for more information!"
 	},
@@ -47,7 +47,7 @@
 		"userId": "1480477",
 		"downloadId": "NoID",
 		"name": "doanhuan456",
-		"type": "SPIGOT",
+		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances."
 	},
@@ -55,7 +55,7 @@
 		"userId": "461538",
 		"downloadId": "NoID",
 		"name": "DangBANghia",
-		"type": "SPIGOT",
+		"type": "SPIGOTMC",
 		"blocked": false,
 		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances (no longer supported)."
 	}
