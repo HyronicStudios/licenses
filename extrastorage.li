@@ -64,7 +64,7 @@
 		"downloadId": "NoID",
 		"name": "uncute174",
 		"type": "SPIGOTMC",
-		"blocked": true,
-		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances. (LuckyVN and LangBee.net)"
+		"blocked": false,
+		"reason": "In checking (LuckyVN and LangBee.net)."
 	}
 ]
