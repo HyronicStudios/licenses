@@ -58,5 +58,13 @@
 		"type": "SPIGOTMC",
 		"blocked": false,
 		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances (no longer supported)."
+	},
+	{
+		"userId": "616562",
+		"downloadId": "NoID",
+		"name": "JenkerYT",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances. (Nguyễn Mạnh Cường)"
 	}
 ]
