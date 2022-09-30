@@ -80,7 +80,7 @@
 		"downloadId": "NoID",
 		"name": "chuoinguyen",
 		"type": "SPIGOTMC",
-		"blocked": true,
-		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances."
+		"blocked": false,
+		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances. (GaConMC and ZingMC)"
 	}
 ]
