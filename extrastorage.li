@@ -1,7 +1,7 @@
 [
 	{
 		"author": "UriZelda",
-		"version": "2.5.6"
+		"version": "2.5.8"
 	},
 	{
 		"userId": "%%__USER__%%",
@@ -74,5 +74,13 @@
 		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances. (SuperMC and McFamily)"
+	},
+	{
+		"userId": "391273",
+		"downloadId": "NoID",
+		"name": "chuoinguyen",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances."
 	}
 ]
