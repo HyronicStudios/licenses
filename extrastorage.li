@@ -90,5 +90,13 @@
 		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "Temporarily blocked due to leak detection."
+	},
+	{
+		"userId": "1530264",
+		"downloadId": "NoID",
+		"name": "ThanhPhongb2138",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "Permanently blocked due to leak detection."
 	}
 ]
