@@ -1,0 +1,118 @@
+[
+	{
+		"author": "UriZelda",
+		"version": "3.0.0"
+	},
+	{
+		"userId": "%%__USER__%%",
+		"downloadId": "NoID",
+		"name": "Placeholder",
+		"type": "ALL",
+		"blocked": true,
+		"reason": "Invalid user ID!"
+	},
+	{
+		"userId": "NoID",
+		"downloadId": "%%__NONCE__%%",
+		"name": "Placeholder",
+		"type": "ALL",
+		"blocked": true,
+		"reason": "Invalid download ID!"
+	},
+	{
+		"userId": "1510996",
+		"downloadId": "NoID",
+		"name": "NguyenPhucThai",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "The plugin has been leaked on April 9th 2022. Contact us via discord server for more information!"
+	},
+	{
+		"userId": "865473",
+		"downloadId": "NoID",
+		"name": "Typical1977",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "The plugin has been leaked on August 5th 2022. Contact us via discord server for more information! (Owner Simpmc)"
+	},
+	{
+		"userId": "1361814",
+		"downloadId": "NoID",
+		"name": "zNAFTAz",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "The plugin has been leaked on August 9th 2022. Contact us via discord server for more information!"
+	},
+	{
+		"userId": "1480477",
+		"downloadId": "NoID",
+		"name": "doanhuan456",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances."
+	},
+	{
+		"userId": "461538",
+		"downloadId": "NoID",
+		"name": "DangBANghia",
+		"type": "SPIGOTMC",
+		"blocked": false,
+		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances (no longer supported)."
+	},
+	{
+		"userId": "616562",
+		"downloadId": "NoID",
+		"name": "JenkerYT",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances. (Nguyễn Mạnh Cường)"
+	},
+	{
+		"userId": "1461683",
+		"downloadId": "NoID",
+		"name": "thienphuc1310",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances. (SuperMC and McFamily)"
+	},
+	{
+		"userId": "391273",
+		"downloadId": "NoID",
+		"name": "chuoinguyen",
+		"type": "SPIGOTMC",
+		"blocked": false,
+		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances. (GaConMC and ZingMC)"
+	},
+	{
+		"userId": "538352",
+		"downloadId": "NoID",
+		"name": "MR_A",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "Temporarily blocked due to leak detection."
+	},
+	{
+		"userId": "1530264",
+		"downloadId": "NoID",
+		"name": "ThanhPhongb2138",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "Permanently blocked due to leak detection."
+	},
+	{
+		"userId": "97970",
+		"downloadId": "1522772267",
+		"name": "MaiMinhAnh",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "Permanently blocked due to leak detection."
+	},
+	{
+		"userId": "2958",
+		"downloadId": "NoID",
+		"name": "Cracked User (Unknown)",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "Permanently blocked due to unknown user detection in GACHALEGEND.TOP"
+	}
+]
