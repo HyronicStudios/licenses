@@ -5,14 +5,14 @@
 	},
 	{
 		"userId": "%%__USER__%%",
-		"downloadId": "NoID",
+		"downloadId": "",
 		"name": "Placeholder",
 		"marketplace": "ALL",
 		"blocked": true,
 		"reason": "Invalid user ID!"
 	},
 	{
-		"userId": "NoID",
+		"userId": "",
 		"downloadId": "%%__NONCE__%%",
 		"name": "Placeholder",
 		"marketplace": "ALL",
@@ -21,7 +21,7 @@
 	},
 	{
 		"userId": "1510996",
-		"downloadId": "NoID",
+		"downloadId": "",
 		"name": "NguyenPhucThai",
 		"marketplace": "SPIGOTMC",
 		"blocked": true,
@@ -29,7 +29,7 @@
 	},
 	{
 		"userId": "865473",
-		"downloadId": "NoID",
+		"downloadId": "",
 		"name": "Typical1977",
 		"marketplace": "SPIGOTMC",
 		"blocked": true,
@@ -37,7 +37,7 @@
 	},
 	{
 		"userId": "1361814",
-		"downloadId": "NoID",
+		"downloadId": "",
 		"name": "zNAFTAz",
 		"marketplace": "SPIGOTMC",
 		"blocked": true,
@@ -45,7 +45,7 @@
 	},
 	{
 		"userId": "1480477",
-		"downloadId": "NoID",
+		"downloadId": "",
 		"name": "doanhuan456",
 		"marketplace": "SPIGOTMC",
 		"blocked": true,
@@ -53,7 +53,7 @@
 	},
 	{
 		"userId": "461538",
-		"downloadId": "NoID",
+		"downloadId": "",
 		"name": "DangBANghia",
 		"marketplace": "SPIGOTMC",
 		"blocked": false,
@@ -61,7 +61,7 @@
 	},
 	{
 		"userId": "616562",
-		"downloadId": "NoID",
+		"downloadId": "",
 		"name": "JenkerYT",
 		"marketplace": "SPIGOTMC",
 		"blocked": true,
@@ -69,7 +69,7 @@
 	},
 	{
 		"userId": "1461683",
-		"downloadId": "NoID",
+		"downloadId": "",
 		"name": "thienphuc1310",
 		"marketplace": "SPIGOTMC",
 		"blocked": true,
@@ -77,7 +77,7 @@
 	},
 	{
 		"userId": "391273",
-		"downloadId": "NoID",
+		"downloadId": "",
 		"name": "chuoinguyen",
 		"marketplace": "SPIGOTMC",
 		"blocked": false,
@@ -85,7 +85,7 @@
 	},
 	{
 		"userId": "538352",
-		"downloadId": "NoID",
+		"downloadId": "",
 		"name": "MR_A",
 		"marketplace": "SPIGOTMC",
 		"blocked": true,
@@ -93,7 +93,7 @@
 	},
 	{
 		"userId": "1530264",
-		"downloadId": "NoID",
+		"downloadId": "",
 		"name": "ThanhPhongb2138",
 		"marketplace": "SPIGOTMC",
 		"blocked": true,
@@ -109,7 +109,7 @@
 	},
 	{
 		"userId": "2958",
-		"downloadId": "NoID",
+		"downloadId": "",
 		"name": "Cracked User (Unknown)",
 		"marketplace": "SPIGOTMC",
 		"blocked": true,
