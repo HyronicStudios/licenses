@@ -1,19 +1,19 @@
 [
 	{
 		"author": "UriZelda",
-		"version": "1.0.1"
+		"version": "1.1.1"
 	},
 	{
 		"userId": "%%__USER__%%",
 		"name": "Placeholder",
-		"type": "SPIGOT",
+		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "Invalid user ID!"
 	},
 	{
 		"userId": "%%__USER__%%",
 		"name": "Placeholder",
-		"type": "MCMARKET",
+		"type": "BUILTBYBIT",
 		"blocked": true,
 		"reason": "Invalid user ID!"
 	},
@@ -27,7 +27,7 @@
 	{
 		"userId": "1480477",
 		"name": "doanhuan456",
-		"type": "SPIGOT",
+		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances."
 	}
