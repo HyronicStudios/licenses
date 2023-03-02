@@ -89,7 +89,7 @@
 		"name": "MR_A",
 		"type": "SPIGOTMC",
 		"blocked": true,
-		"reason": "Temporarily blocked due to leak detection."
+		"reason": "Permanently blocked due to leak detection."
 	},
 	{
 		"userId": "1530264",
