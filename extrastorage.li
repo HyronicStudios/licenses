@@ -1,7 +1,7 @@
 [
 	{
 		"author": "UriZelda",
-		"version": "2.6.4"
+		"version": "2.7.1"
 	},
 	{
 		"userId": "%%__USER__%%",
@@ -76,14 +76,6 @@
 		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances. (SuperMC and McFamily)"
 	},
 	{
-		"userId": "391273",
-		"downloadId": "NoID",
-		"name": "chuoinguyen",
-		"type": "SPIGOTMC",
-		"blocked": false,
-		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances. (GaConMC and ZingMC)"
-	},
-	{
 		"userId": "538352",
 		"downloadId": "NoID",
 		"name": "MR_A",
@@ -108,11 +100,11 @@
 		"reason": "Permanently blocked due to leak detection."
 	},
 	{
-		"userId": "2958",
-		"downloadId": "NoID",
-		"name": "Unknown User",
+		"userId": "1046941",
+		"downloadId": "-879260729",
+		"name": "Frebly",
 		"type": "SPIGOTMC",
 		"blocked": true,
-		"reason": "Permanently blocked due to unknown user detection in GACHALEGEND.TOP"
+		"reason": "Permanently blocked due to leak detection (https://minecraftvn.net/extrastorage-mau-config-gui.t42371/)."
 	}
 ]
