@@ -1,7 +1,7 @@
 [
 	{
 		"authors": ["BengBeng_"],
-		"version": "3.0.0"
+		"version": "3.1.1"
 	},
 	{
 		"userId": "%%__USER__%%",
@@ -114,5 +114,13 @@
 		"marketplace": "SPIGOTMC",
 		"blocked": true,
 		"reason": "Permanently blocked due to unknown user detection in GACHALEGEND.TOP"
+	},
+	{
+		"userId": "1",
+		"downloadId": "",
+		"name": "Cracked User (Unknown)",
+		"marketplace": "SPIGOTMC",
+		"blocked": true,
+		"reason": "Permanently blocked due to unknown user detection."
 	}
 ]
