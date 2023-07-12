@@ -106,5 +106,13 @@
 		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "Permanently blocked due to leak detection (https://minecraftvn.net/extrastorage-mau-config-gui.t42371/)."
+	},
+	{
+		"userId": "1418878",
+		"downloadId": "",
+		"name": "vuanh0512",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "Permanently blocked due to leak detection."
 	}
 ]
