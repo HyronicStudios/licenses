@@ -1,0 +1,22 @@
+[
+	{
+		"authors": [],
+		"version": "1.0.0"
+	},
+	{
+		"userId": "%%__USER__%%",
+		"downloadId": "",
+		"name": "Placeholder",
+		"marketplace": "ALL",
+		"blocked": true,
+		"reason": "Invalid user ID!"
+	},
+	{
+		"userId": "",
+		"downloadId": "%%__NONCE__%%",
+		"name": "Placeholder",
+		"marketplace": "ALL",
+		"blocked": true,
+		"reason": "Invalid download ID!"
+	}
+]
