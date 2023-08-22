@@ -18,5 +18,13 @@
 		"marketplace": "ALL",
 		"blocked": true,
 		"reason": "Invalid download ID!"
+	},
+	{
+		"userId": "9859",
+		"downloadId": "",
+		"name": "iqtester",
+		"marketplace": "Polymart",
+		"blocked": true,
+		"reason": "Permanently blocked due to leak detection."
 	}
 ]
