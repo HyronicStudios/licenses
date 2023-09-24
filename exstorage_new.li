@@ -138,5 +138,13 @@
 		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "Permanently blocked due to leak detection."
+	},
+	{
+		"userId": "455450",
+		"downloadId": "",
+		"name": "nhanhuy13",
+		"type": "BUILTBYBIT",
+		"blocked": true,
+		"reason": "Permanently blocked due to leak detection."
 	}
 ]
