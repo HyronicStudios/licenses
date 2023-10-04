@@ -1,7 +1,7 @@
 [
 	{
 		"author": "BengBeng_",
-		"version": "3.1.3"
+		"version": "3.2.2"
 	},
 	{
 		"userId": "%%__USER__%%",
@@ -111,6 +111,14 @@
 		"userId": "1418878",
 		"downloadId": "",
 		"name": "vuanh0512",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "Permanently blocked due to leak detection."
+	},
+	{
+		"userId": "324898",
+		"downloadId": "",
+		"name": "Trinhduc4463",
 		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "Permanently blocked due to leak detection."
