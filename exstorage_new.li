@@ -127,7 +127,7 @@
 		"userId": "1046941",
 		"downloadId": "",
 		"name": "Frebly",
-		"type": "SPIGOTMC",
+		"marketplace": "SPIGOTMC",
 		"blocked": true,
 		"reason": "Permanently blocked due to leak detection (https://minecraftvn.net/extrastorage-mau-config-gui.t42371/)."
 	},
@@ -135,7 +135,7 @@
 		"userId": "1418878",
 		"downloadId": "",
 		"name": "vuanh0512",
-		"type": "SPIGOTMC",
+		"marketplace": "SPIGOTMC",
 		"blocked": true,
 		"reason": "Permanently blocked due to leak detection."
 	},
@@ -143,7 +143,7 @@
 		"userId": "455450",
 		"downloadId": "",
 		"name": "nhanhuy13",
-		"type": "BUILTBYBIT",
+		"marketplace": "BUILTBYBIT",
 		"blocked": true,
 		"reason": "Permanently blocked due to leak detection."
 	},
@@ -151,7 +151,7 @@
 		"userId": "324898",
 		"downloadId": "",
 		"name": "Trinhduc4463",
-		"type": "SPIGOTMC",
+		"marketplace": "SPIGOTMC",
 		"blocked": true,
 		"reason": "Permanently blocked due to leak detection."
 	},
@@ -159,7 +159,7 @@
 		"userId": "129104",
 		"downloadId": "",
 		"name": "ThuongKen",
-		"type": "BUILTBYBIT",
+		"marketplace": "BUILTBYBIT",
 		"blocked": true,
 		"reason": "Permanently blocked due to leak detection."
 	},
@@ -167,7 +167,7 @@
 		"userId": "165062",
 		"downloadId": "",
 		"name": "Phooo",
-		"type": "SPIGOTMC",
+		"marketplace": "SPIGOTMC",
 		"blocked": true,
 		"reason": "You're not our customer! If you have any question, please join our discord for help."
 	},
