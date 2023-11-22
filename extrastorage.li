@@ -138,5 +138,13 @@
 		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "You're not our customer! If you have any question, please join our discord for help."
+	},
+	{
+		"userId": "1631006",
+		"downloadId": "",
+		"name": "Tessukirs",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances."
 	}
 ]
