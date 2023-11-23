@@ -146,5 +146,13 @@
 		"type": "SPIGOTMC",
 		"blocked": true,
 		"reason": "You have violated our TOS: You cannot share or resell our products under any circumstances."
+	},
+	{
+		"userId": "1651170",
+		"downloadId": "",
+		"name": "anhphap",
+		"type": "SPIGOTMC",
+		"blocked": true,
+		"reason": "Permanently blocked due to leak detection."
 	}
 ]
